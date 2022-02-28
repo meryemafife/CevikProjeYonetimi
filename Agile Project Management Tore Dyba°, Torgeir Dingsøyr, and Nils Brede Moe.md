@@ -48,12 +48,40 @@ Proje yöneticisi şunları sağlamalıdır:
 - Bir ekip üyesi, verilen görevi yerine getirme konusunda biraz özgür olmalıdır. 
 
 ## 3. Ortak Karar Verme 
-![Fig 1](/week-1/agile01.png)
+![Şekil 1](/week-1/agile01.png)
+
+*Şekil 1* gösterldiği gibi geleneksel geliştirmede karar verme hiyerarşik komuta ve kontrol yapısı tarafından yönetilirken, çevik geliştirme ekibinde yetkilendirme ve ortak karar verme her düzeyde teşvik edilir. Çoğu organizasyonda, karar vermenin bu iki yolunun bir karışımını bulacaksınız.
+
+Çevik ekiplerde uyarlanabilirlik esastır. Çevik ekiplerde ortak karar vermenin çeşitli faydaları olsa da, bazı zorluklar da vardır.
+- Farklı geçmişlere ve hedeflere sahip paydaşları içeren ortak karar verme yaklaşımı, kararların çoğundan proje yöneticisinin sorumlu olduğu geleneksel yaklaşımdan daha sorunludur.
+- Ortak karar vermenin faydalarına rağmen, uyum, etkisiz veya işlevsiz karar vermenin bir kaynağı olarak belirtilmiştir. Takım uyumuyla ilgili belki de en çok belirtilen sorun grup düşüncesidir.
+- Her kararın her ekip üyesinin eşit katılımıyla ortaklaşa alınması gerekmediğini, bunun yerine ekibin yetkiyi ekip içindeki bireylere veya alt gruplara devredebileceğini anlamak önemlidir. Buradaki zorluk, hangi ekip üyesinin hangi kararlara dahil olması gerektiğini anlamaktır.
+- Ekipte acemiler varsa, çevik proje yöneticisinin acemileri uzman olana kadar aşamalardan nasıl geçireceğini belirlemesi gerekir.
+- Ekiplerin bu tür toplantılarda etkili karar alma süreçleri gerçekleştirmesini sağlamak için proje yöneticisinin ekip üyelerinin ortak bir zihinsel model geliştirdiğinden emin olması gerekir; yani, görevleri çözmek için ihtiyaç duyulan bilgi ve gereksinimlerden ve neyden kimin sorumlu olduğu konusunda ortak bir anlayışa sahip olmalıdırlar
+
+Çevik proje yönetiminde, ortak karar verme için önemli bir forum, günlük işlerin koordine edilmesi ve planlanmasıyla ilgili olduğu için stand-up toplantısıdır. Toplantının kısa olması gerekiyor ve toplantının amacı iletişimi geliştirmek, hızlı karar vermeyi vurgulamak, teşvik etmek, engelleri belirleyip ortadan kaldırmaktır. Günlük toplantı, çevik ekibi üyelerinin karmaşık, dinamik ve gerçek zamanlı bir ortamda kararlar almak için deneyimlerini kullandıkları bir yerdir.
+
+Çevik projelerde artan bağlılık durumlarından kaçınmak için, ekip toplantılarının kararları savunmak için bir yer haline gelmemesini sağlamak önemlidir. Takımların sadece kendi iç süreçlerini izlemeleri gerekmiyor, aynı zamanda takım toplantılarına hangi takım dışı üyelerin katılmasına veya gözlemlenmesine izin verildiğini de düşünmeleri gerekiyor. Ekip üyeleri, örneğin günlük toplantılarda ekip dışından kişilerin bulunması nedeniyle kararlarını savunmaya başlarsa veya yaptıklarına ilişkin ayrıntılı raporlar verirse, ekip dışındaki bu kişilerin düzenli olarak katılmamaları daha doğru olmaktadır.
+
+## 4. Çevik Proje Kick-off
+
+Geri bildirim, ürün ve kişisel becerilerde ve ayrıca geliştirme sürecinde değişikliklere yol açabilecek öğrenme fırsatlarını temsil eder. Çevik geliştirmede “çalışan yazılım” ve “bireyler ve etkileşimler” üzerine odaklanıldığında bilgi, geleneksel yazılım geliştirmeden çok farklı bir şekilde yönetilir. Öğrenmek zor ama çok önemli.
+
+Kick-off, proje yönetiminin en çok kullanılan araçlarından biridir. Kick-off ​​toplantısındaki tipik faaliyetler, proje için bir vizyon tanımlamak, roller, proje paydaşları oluşturmak ve projeyi planlamaktır. Normalde çevik bir ekip, birkaç yineleme için kaba bir plan ve bir sonraki için ayrıntılı bir plan yapacaktır. Ayrıntılı plan, ürün sahibinin geliştirilecek özelliklere öncelik vermesini sağlayarak Kick-off yapılabilir. Ekip için “plan” daha sonra öncelikli özelliklerin bir listesidir ve özellikleri geliştirme görevlerini kimin gerçekleştireceğine yineleme sırasında karar verilir.
+
+Geri bildirim ve öğrenmeyi mümkün kılmak için Kick-off ​​toplantısında önemli olan  paylaşılan zihinsel modelleri iyi tasarlamaktır. Paylaşılan zihinsel modeller,  görevler, teknoloji, ekip üyelerinin becerileri ve etkileşimler hakkındaki bilgileri içerir. Planlama pokeri tekniği, paylaşılan zihinsel modelleri geliştirmenin bir yoludur. Tahmin tartışmaları, ekip üyesi becerilerini göstermenin yanı sıra eldeki görevler, geliştirmede kullanılan teknoloji hakkında bilgi sağlayabilir. 
+
+*Planlama pokeri* şu şekilde gerçekleştirilir: Her bireye, genellikle 0, 1, 2, 3, 5, 8, 13, 20, 40 ve 1 olmak üzere bir Fibonacci dizisinde gevşek değerlere sahip bir dizi oyun kartı verilir. Her görev için, bireyler iş miktarını temsil eden bir karta karar verirler; bu, saat sayısı veya standart bir göreve göre olabilir. Tüm ekip üyeleri kartlarını gösterir ve en yüksek ve en düşük tahmine sahip kişiden gerekçelerini açıklaması istenir. Uzlaşma sağlanana kadar süreç tekrarlanır veya fikir birliği mümkün değilse, çoğunluk oyu veya oyların ortalamasına göre bir sayı belirlenir. Çok fazla farklılık varsa, bir görevi tahmin edilmesi daha kolay olan daha küçük görevlere ayırmak da gerekli olabilir. Çevik yöntemler basit ve hatırlaması kolaydır, bu da paylaşılan bir zihinsel model olarak çalışmayı kolaylaştırır.
+
+## 5. Retrospektif
+
 
 
 
 ## Araştırılacak Konular
 - PRINCE2 (yapılandırılmış bir proje yönetimi yöntemi ve uygulayıcı sertifika programıdır. PRINCE2, projeleri yönetilebilir ve kontrol edilebilir aşamalara ayırmayı vurgular. Birleşik Krallık, Batı Avrupa ülkeleri ve Avustralya dahil olmak üzere dünya çapında birçok ülkede benimsenmiştir.)
+- the theory of naturalistic decision making (NDM) 
+- Kick-off
 
 ## Önemli Noktalar
 - Savunma sanayisi genellikle hem donanım hem yazılım bir anda içeren projelere sahip bir yapısı vardır. 
