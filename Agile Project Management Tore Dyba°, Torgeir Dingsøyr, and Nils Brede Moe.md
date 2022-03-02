@@ -97,7 +97,34 @@ Bir görsel pano, bir projedeki yaygın sorunları keşfetmeyi kolaylaştırır:
 - aynı anda çok fazla görev başlatılatılıyor
 
 
+## Çevik Proje Yönetiminin İlkeleri
 
+Yazılımın temel bir özelliği, fiziksel olmayan biçimidir; yazılım kodu, esasen sınırsız karmaşıklığa, esnekliğe ve revize edilebilirliğe sahip büyük bir soyut talimatlar kümesidir. Yazılım, doğrusal olmayan davranış sergiler ve doğa yasalarına uymaz(Fægri et al. 2010). Çevik proje yönetimi, yazılımın bu temel özelliklerini ele alır ve geleneksel proje yönetiminin iyi tanımlanmış faaliyetlerinin doğrusal dizisinden kopar.
+
+> ### 1. Minimum Kritik Spesifikasyon
+> - Kesinlikle gerekli olandan fazlasının belirtilmemelidir.
+> - Ekibin genel başarı için neyin kritik olduğunu belirlemesini gerektirir.
+> Bu, sistem gereksinimlerinin ne yapılması gerektiği konusunda kesin olması gerektiği, bunun nasıl yapılacağı hakkında değil ve kuralların, standartların ve önceden tanımlanmış prosedürlerin kullanımının mutlak bir minimumda tutulması gerektiği anlamına gelir. Odak, daha büyük sistem gereksinimleri ve sınır koşulları üzerinde olmalı ve mümkün olduğunca çok tasarım kararı işe en yakın olanlara bırakılmalıdır. Sistemin çözmeyi amaçladığı “sorunu” anlamak, proje başarısının anahtarlarından biridir. Projenin başlangıç ​​toplantısı bunu başarmak için çok önemlidir.
+
+> ### 2. Otonom Ekip
+> Bu ilke, özerk veya kendi kendini yöneten ekiplerin yenilikçi yazılım projelerinin başarısı için bir ön koşul olduğu öncülüne dayanmaktadır.Otonom ekiplerin üyeleri, kendi süreçlerini yönetmekten ve izlemekten ve görevleri yerine getirmekten sorumludur(Moe ve diğerleri 2009).Bireysel geliştiricilerin kendi çalışmaları ve kendi görevlerinin programlanması ve uygulanması üzerinde yeterli kontrole sahip olmalarını sağlamak zorunludur. Otonom ekiplerin başarılı olması için, yaratıcılığı ve kendiliğindenliği bozacak herhangi bir kontrolden kaçınarak tüm organizasyonda güven ve bağlılık oluşturmak gerekir. Şirketin kontrol ihtiyacı değil, ekibin sürekli öğrenme ihtiyacı odakta olmalıdır.
+
+> ### 3. Gereğinden Fazla Olma (Redundancy)
+> Bu ilke, insanların yeni bilgi yaratması için ortak referanslara ihtiyaç duyduğunu göstermektedir. Bireylerin bilgi ve becerilerindeki örtüşmesi önemli bir gerekliliktir. Ekip içindeki redundancy seviyesi arttıkça, bireyler yeni bilgileri paylaşmayı daha kolay bulacak ve proje çalışmalarını daha etkin bir şekilde koordine edebilecektir. Projenin daha esnek ve uyarlanabilir hale gelmesi için ekibin her bir üyesinin birden fazla işlevde yetenekli olması gerektiğini ima eder, bu da bir işlevin farklı kişilerden yararlanarak birçok şekilde gerçekleştirilmesine olanak tanır. Çeşitli işler yapmak için çapraz eğitimli ekip üyeleriyle birlikte böyle bir fazlalığa sahip olmak, projenin işlevsel fazlalığını ve dolayısıyla ekibin personel eksikliğiyle başa çıkma esnekliğini artırır.
+
+> ### Geribildirim ve Öğrenme
+> Geri bildirim ve öğrenme olmadan çevik proje yönetimi mümkün değildir. Çevik projelerde önceden planlama yerine proje yürütmeye odaklanmak, öğrenme ile çalışmanın ve problem belirleme ile çözümün iç içe geçmesine yol açar(Rittel ve Webber 1973; Yeh 1991). Bu tür problemler için, sistemin çoğu inşa edilene ve kullanılana kadar gereksinimler tam olarak belirlenemez. Aynı zamanda ne kurulacağı belirtilmeden sistem kurulamaz. Proje, istenen bir sonuca ulaşmak için geri bildirim ve sürekli öğrenmeyi içselleştirilmiş bir alışkanlık haline getiren bir dizi adımda örtüşen ve paralel faaliyetlere izin vermelidir.
+
+## Sonuç 
+Çevik proje yönetimi ilkeleri, organizasyonlara ve sistemlere yeni ortaya çıkan özellikler sağlama potansiyeline sahiptir. Ancak, kuruluşlar bu ilkeleri benimsemede veya mevcut uygulamalarla bütünleştirmede dikkatli olmalıdır.
+
+Çevik yönetim yöntemleri, görevlerde, insanların becerilerinde ve kullanılan teknolojide yüksek değişkenlik sergileyen projeler için idealdir.
+
+Ayrıca, bürokrasi ve resmileştirme etrafında inşa edilenlerden daha fazla yenilikçiliğe yardımcı olan kuruluşlar için de uygundurlar.
+
+Çevik yazılım projelerini yönetmedeki zorluk, önceden planlama ve öğrenme arasındaki dengeyi bulmaktır.
+
+Düşük düzeyde karmaşıklık ve belirsizliğe sahip projeler daha fazla planlamaya izin verirken, yüksek düzeyde karmaşıklık ve belirsizliğe sahip projeler öğrenmeye daha fazla önem verilmesini gerektirir.
 
 
 ## Araştırılacak Konular
@@ -118,4 +145,4 @@ Bir görsel pano, bir projedeki yaygın sorunları keşfetmeyi kolaylaştırır:
 - Bireysellik ve kendi kendin yönetme çevik yönetimde önemli bir kazanımdır. Çevik bir proje yöneticisi, çevik yazılım ekiplerinde ekip düzeyinde özerklik ile bireysel düzeyde özerkliği nasıl dengeleyebilir?
 - Ekiplerdeki özerklik ve bireysellik özellikle sabit kapsam ve son teslim tarihlerine sahip pazar odaklı çevik projelerde geliştirme yapıldığında nasıl kontrol altında tutulabilecektir?
 - Çevik proje yönetiminde ekip liderlerinin takım etkinliğini artırmak için ne yapmaları gerekmektedir?
-- 
+  
