@@ -1,0 +1,13 @@
+- Agile şu anda her Fortune 500 şirketi tarafından kullanılıyor ve dünya çapında orta ölçekli ticari şirketlerin %97'sinden fazlası tarafından kullanılıyor. Platinum Edge'in hizmet paketini benimseyenler, %30-70 arasında bir maliyet tasarrufu ile pazara sunma süresinde %30-40'lık bir artış yaşadılar. Orijinal fikir teknoloji dünyasında kullanılmak üzere olmasına rağmen, değerler ve ilkeler her türlü program yönetimi için geçerlidir.
+- ABD ordusu, planlama ve uygulama söz konusu olduğunda mükemmelliğin odak noktası olma konusunda uzun bir geçmişe sahiptir. JOPES ve MDMP sürecini kullanmak, askeri operasyonları planlamak ve yürütmek için uzun zamandır kanıtlanmış bir yöntemdir.
+- Ordu daha iş benzeri bir modele geçtikçe, hedeflerimize ulaşmak için kanıtlanmış çevik yaklaşımları benimsemeye ihtiyaç vardır.
+- Birçok işletme ve kuruluş gibi, Ordu da hem kültür hem de yapı olarak değişime açık olmalıdır. 
+- Askeri planlamada, bir hiyerarşi ve açık bir emir komuta zinciri vardır. 
+- Agile ile, liderler bir rehber olarak hareket ederken ekibin sahiplenilmesine izin vermelisiniz. 
+- Şirket seviyesinden, kolorduya ve üstüne kadar personel işlevleri açısından düşünün. 
+- S-1'lerinizin, G-2'lerinizin, J-3'lerinizin vb. personel müdürlükleri, "soba borularının" sınırları içinde çalışır ve bireysel çabalar hakkında bir Genelkurmay Başkanına veya Komutana rapor verir.
+- Çevik kullanan bir kuruluşta, ürünleri temel alan işlevler arası ekipler oluşturursunuz. 
+- Bu ekipler, yalnızca mevcut olan herkesle değil, yani "süreç üzerindeki insanlarla" değil, son ürünü tamamlamak için gereken yeteneğe dayanarak geliştirilir. 
+- Bu hafif takım, bir hedefe odaklanırken, teslimatları kademeli olarak kesiyor. 
+- Ekip birbirlerini yol boyunca sorumlu tutar ve başarıyı kolaylaştırmak için mümkün olduğunca iletişim kurar. 
+- Bu model kendi kendini düzeltmeye izin verir ve "müşteriyi" yol boyunca dahil tutar.
